@@ -1,8 +1,0 @@
-venv/
-outputs/
-unsloth_compiled_cache/
-__pycache__/
-*.gguf
-*.pt
-*.bin
-*.safetensors
